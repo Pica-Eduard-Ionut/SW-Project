@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recipes>
+  <recipe id="1">
+    <title>Creamy pumpkin pasta</title>
+    <cuisine>American</cuisine>
+    <cuisine>Italian</cuisine>
+    <difficulty>Beginner</difficulty>
+  </recipe>
+  <recipe id="2">
+    <title>Sausage, mustard &amp; apple hash</title>
+    <cuisine>American</cuisine>
+    <cuisine>European</cuisine>
+    <difficulty>Advanced</difficulty>
+  </recipe>
+  <recipe id="3">
+    <title>Mushroom stroganoff</title>
+    <cuisine>European</cuisine>
+    <cuisine>Indian</cuisine>
+    <difficulty>Intermediate</difficulty>
+  </recipe>
+  <recipe id="4">
+    <title>Beetroot &amp; feta pasta</title>
+    <cuisine>Italian</cuisine>
+    <cuisine>French</cuisine>
+    <difficulty>Beginner</difficulty>
+  </recipe>
+  <recipe id="5">
+    <title>Pork &amp; apple burgers</title>
+    <cuisine>Italian</cuisine>
+    <cuisine>Asian</cuisine>
+    <difficulty>Intermediate</difficulty>
+  </recipe>
+  <recipe id="6">
+    <title>Mushroom soup</title>
+    <cuisine>Asian</cuisine>
+    <cuisine>Italian</cuisine>
+    <difficulty>Advanced</difficulty>
+  </recipe>
+  <recipe id="7">
+    <title>Squash &amp; halloumi flatbreads with sweet chilli beetroot jam</title>
+    <cuisine>French</cuisine>
+    <cuisine>Italian</cuisine>
+    <difficulty>Beginner</difficulty>
+  </recipe>
+  <recipe id="8">
+    <title>Simple squash risotto</title>
+    <cuisine>American</cuisine>
+    <cuisine>Italian</cuisine>
+    <difficulty>Advanced</difficulty>
+  </recipe>
+  <recipe id="9">
+    <title>Slow cooker spiced root &amp; lentil casserole</title>
+    <cuisine>Asian</cuisine>
+    <cuisine>European</cuisine>
+    <difficulty>Advanced</difficulty>
+  </recipe>
+  <recipe id="10">
+    <title>Squash &amp; spinach fusilli with pecans</title>
+    <cuisine>European</cuisine>
+    <cuisine>French</cuisine>
+    <difficulty>Advanced</difficulty>
+  </recipe>
+  <recipe id="11">
+    <title>Easy vegetable curry</title>
+    <cuisine>French</cuisine>
+    <cuisine>American</cuisine>
+    <difficulty>Advanced</difficulty>
+  </recipe>
+  <recipe id="12">
+    <title>Sausage &amp; butternut squash shells</title>
+    <cuisine>American</cuisine>
+    <cuisine>European</cuisine>
+    <difficulty>Advanced</difficulty>
+  </recipe>
+  <recipe id="13">
+    <title>Autumn vegetable soup with cheesy toasts</title>
+    <cuisine>French</cuisine>
+    <cuisine>Italian</cuisine>
+    <difficulty>Advanced</difficulty>
+  </recipe>
+  <recipe id="14">
+    <title>Mushroom &amp; sausage pasta</title>
+    <cuisine>American</cuisine>
+    <cuisine>Italian</cuisine>
+    <difficulty>Advanced</difficulty>
+  </recipe>
+  <recipe id="15">
+    <title>Creamy pumpkin &amp; lentil soup</title>
+    <cuisine>Asian</cuisine>
+    <cuisine>French</cuisine>
+    <difficulty>Beginner</difficulty>
+  </recipe>
+  <recipe id="16">
+    <title>Curried parsnip soup</title>
+    <cuisine>Asian</cuisine>
+    <cuisine>Indian</cuisine>
+    <difficulty>Beginner</difficulty>
+  </recipe>
+  <recipe id="17">
+    <title>Red onion gravy</title>
+    <cuisine>Asian</cuisine>
+    <cuisine>Indian</cuisine>
+    <difficulty>Advanced</difficulty>
+  </recipe>
+  <recipe id="18">
+    <title>Butternut squash pilaf</title>
+    <cuisine>Asian</cuisine>
+    <cuisine>European</cuisine>
+    <difficulty>Intermediate</difficulty>
+  </recipe>
+  <recipe id="19">
+    <title>Sausage &amp; maple swede traybake</title>
+    <cuisine>European</cuisine>
+    <cuisine>Asian</cuisine>
+    <difficulty>Intermediate</difficulty>
+  </recipe>
+  <recipe id="20">
+    <title>Cauliflower mac &amp; cheese</title>
+    <cuisine>American</cuisine>
+    <cuisine>European</cuisine>
+    <difficulty>Intermediate</difficulty>
+  </recipe>
+</recipes>

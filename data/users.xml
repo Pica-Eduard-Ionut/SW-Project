@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+  <user id="1">
+    <name>Alex</name>
+    <surname>Popescu</surname>
+    <skill>Intermediate</skill>
+    <preferredCuisine>Asian</preferredCuisine>
+  </user>
+  <user id="2">
+    <name>Test</name>
+    <surname>User</surname>
+    <skill>Intermediate</skill>
+    <preferredCuisine>Indian</preferredCuisine>
+  </user>
+  <user id="3">
+    <name>Test</name>
+    <surname>User2</surname>
+    <skill>Beginner</skill>
+    <preferredCuisine>Indian</preferredCuisine>
+  </user>
+  <user id="4">
+    <name>Asian</name>
+    <surname>TestUser</surname>
+    <skill>Advanced</skill>
+    <preferredCuisine>Asian</preferredCuisine>
+  </user>
+  <user id="5">
+    <name>Adv</name>
+    <surname>American</surname>
+    <skill>Advanced</skill>
+    <preferredCuisine>American</preferredCuisine>
+  </user>
+  <user id="6">
+    <name>Beginer</name>
+    <surname>Asian</surname>
+    <skill>Beginner</skill>
+    <preferredCuisine>Asian</preferredCuisine>
+  </user>
+</users>

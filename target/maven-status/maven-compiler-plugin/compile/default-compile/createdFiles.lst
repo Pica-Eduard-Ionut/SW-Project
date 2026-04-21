@@ -1,0 +1,8 @@
+org/example/Main.class
+org/example/xml/RecipeScraper.class
+org/example/ui/MainUI.class
+org/example/model/Recipe.class
+org/example/ui/MainUI$1.class
+org/example/xml/XPathHelper.class
+org/example/xml/XMLManager.class
+org/example/model/User.class
